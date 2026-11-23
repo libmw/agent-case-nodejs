@@ -1,5 +1,4 @@
 import "dotenv/config";
-import "cheerio";
 import { CharacterTextSplitter } from "@langchain/textsplitters";
 import { Document } from "@langchain/core/documents";
 

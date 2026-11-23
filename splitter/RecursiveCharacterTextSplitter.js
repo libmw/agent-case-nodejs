@@ -1,5 +1,4 @@
 import "dotenv/config";
-import "cheerio";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { Document } from "@langchain/core/documents";
 import { getEncoding } from "js-tiktoken"; 
